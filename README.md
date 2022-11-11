@@ -9,11 +9,11 @@ To analyze PyBer rideshare sample data, specifically to examine and visualize ri
 
 ### Results
 The following graph describes each city type's total fares over a period of four months:
-![PyBer_fare_summary](resources/PyBer_fare_summary.PNG)
+![PyBer_fare_summary](Challenge/analysis/PyBer_fare_summary.PNG)
 As shown, the difference between each city type's weekly total fares is consistent over time. The reason for this is better shown through the raw data. 
 
 The following chart details each city type's total number of rides, driver and cumulative fares, as well as the subsequent averages of their fare per ride taken, and fare earned per driver. 
-![pyber_summary_df](resources/pyber_summary_df.PNG)
+![pyber_summary_df](Challenge/analysis/pyber_summary_df.PNG)
 As shown, we can see the reason for the total fare differences is likely due to the sheer difference in number of rides between the city types. We can also see that while areas with lower demands for rides and driver competition have increased fare amounts (both per ride and per driver), that increase is not enough to offset the raw revenue of Urban areas. 
 
 ## Summary
